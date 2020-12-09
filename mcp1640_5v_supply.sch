@@ -1,5 +1,5 @@
 EESchema Schematic File Version 4
-EELAYER 29 0
+EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -170,4 +170,6 @@ Text GLabel 3600 3050 0    50   Input ~ 0
 VIN
 Text GLabel 6100 3050 2    50   Input ~ 0
 +5V
+Text GLabel 5400 3350 1    50   Input ~ 0
+FBACK
 $EndSCHEMATC
